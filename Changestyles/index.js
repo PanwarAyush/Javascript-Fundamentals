@@ -11,3 +11,9 @@ const hide=()=>{
 const show=()=>{
     document.getElementById('chg').style.display="block"
 }
+const callAlert=()=>{
+    window.alert('aba bnd kar isa')
+}
+const printPage=()=>{
+    print()
+}
